@@ -1,0 +1,21 @@
+{
+  "name": "odin-project-duii",
+  "version": "1.0.0",
+  "description": "to practice drop down menus, mobile menus and image sliders using vanilla JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack",
+    "watch": "webpack --progress --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:curveservices/Odin-project-DUII.git"
+  },
+  "author": "Rozla-Dev",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.88.2",
+    "webpack-cli": "^5.1.4"
+  }
+}
